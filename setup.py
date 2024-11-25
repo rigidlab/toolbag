@@ -6,7 +6,7 @@ setup(
     name='toolbag',
     version='0.1',
     author='rigidlab',
-    description='A toolbag for a poly-engineer',
+    description='A collection of multi-disciplinary tools',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/rigidlab/toolbag',
